@@ -20,7 +20,7 @@ const ForgetPasswordForm = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-blue-500 to-indigo-700">
       <div className="bg-white p-8 rounded shadow-md w-full max-w-md">
         <h2 className="text-2xl mb-4">Forgot Password</h2>
         <form onSubmit={handleFormSubmit}>
@@ -45,7 +45,7 @@ const ForgetPasswordForm = () => {
         )}
         <div className="mt-4 text-center">
           <p>
-            Remembered your password? <Link to="/login" className="text-blue-500 hover:underline">Go to Login</Link>
+            Remembered your password? <Link to="/" className="text-blue-500 hover:underline">Go to Login</Link>
           </p>
         </div>
       </div>

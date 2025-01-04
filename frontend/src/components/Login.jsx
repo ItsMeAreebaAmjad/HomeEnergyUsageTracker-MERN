@@ -28,7 +28,7 @@ const Login = () => {
       localStorage.setItem('user', JSON.stringify(user));
 
       // Redirect to profile page upon successful login
-      navigate('/profile');
+      navigate('/home');
     } catch (error) {
       if (error.response) {
         // The request was made and the server responded with a status code
@@ -49,7 +49,7 @@ const Login = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-blue-500 to-indigo-700">
       <div className="bg-white p-8 rounded shadow-md w-full max-w-md">
         <h2 className="text-2xl mb-4">Login</h2>
         {error && (

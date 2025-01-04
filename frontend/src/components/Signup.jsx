@@ -65,7 +65,7 @@ const Signup = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-blue-500 to-indigo-700">
       <div className="bg-white p-8 rounded shadow-md w-full max-w-2xl relative">
         {successMessage && (
           <div className="absolute top-0 left-0 w-full bg-green-500 text-white text-center py-2 rounded">
