@@ -36,7 +36,7 @@ The **Home Energy Usage Tracker** is a MERN stack-based application designed to 
 Below are some screenshots showcasing the application:  
 
 1. **Home Page**  
-   ![User Dashboard](https://via.placeholder.com/600x400.png?text=User+Dashboard)  
+   ![User Dashboard](https://github.com/ItsMeAreebaAmjad/HomeEnergyUsageTracker-MERN/blob/main/HomePage.png)  
 
 2. **Energy Tracking Options**  
    ![Daily Tracking](https://via.placeholder.com/600x400.png?text=Daily+Energy+Tracking)  
