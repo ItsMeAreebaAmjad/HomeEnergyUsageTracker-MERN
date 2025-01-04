@@ -39,7 +39,7 @@ Below are some screenshots showcasing the application:
    ![User Dashboard](https://github.com/ItsMeAreebaAmjad/HomeEnergyUsageTracker-MERN/blob/main/HomePage.png)  
 
 2. **Energy Tracking Options**  
-   ![Daily Tracking](https://via.placeholder.com/600x400.png?text=Daily+Energy+Tracking)  
+   ![Daily Tracking](https://github.com/ItsMeAreebaAmjad/HomeEnergyUsageTracker-MERN/blob/main/TrackingOptions.png)  
 
 3. **Daily Energy Tracker-I**  
    ![Weekly Analysis](https://via.placeholder.com/600x400.png?text=Weekly+Energy+Analysis)  
