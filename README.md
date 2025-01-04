@@ -45,7 +45,7 @@ Below are some screenshots showcasing the application:
    ![Weekly Analysis](https://github.com/ItsMeAreebaAmjad/HomeEnergyUsageTracker-MERN/blob/main/DailyTracker-I.png)  
 
 4. **Daily Energy Tracker-II**  
-   ![Monthly Patterns](https://via.placeholder.com/600x400.png?text=Monthly+Energy+Patterns)  
+   ![Monthly Patterns](https://github.com/ItsMeAreebaAmjad/HomeEnergyUsageTracker-MERN/blob/main/DailyTracker-II.png)  
 
 ## Installation and Setup  
 
